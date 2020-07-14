@@ -1,0 +1,297 @@
+
+.checkfront_main_style , .checkfront_Itineraries , .checkfront_trip {
+	font-family: Merriweather, Georgia, serif;
+	width:100%;
+	padding:0px 40px;
+}
+.entry-content{   
+    min-width: 100% !important;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.inventory_system_global_style h5{
+	color:#C30;
+	margin:5px 0px;}
+
+.error-notice {
+  margin: margin: 12px 0px;; 
+}
+.oaerror {
+  width: 85%; 
+  margin: 0 auto; 
+  padding: 12px;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 3px;
+  margin: 0 auto;
+  font-size: 16px;
+}
+.danger {
+  border-left-color: #d9534f; 
+  background-color: rgba(217, 83, 79, 0.1);
+}
+.success {
+  border-left-color: #8fae1b;
+  background-color: rgba(43, 84, 44, 0.1);
+}
+.ui-datepicker { width: auto !important; }
+.ui-datepicker th {
+    font-size: 15px !important;
+}
+.list_btn {
+     box-shadow: none;
+    padding: 10px 16px;
+    line-height: 1.3333333;
+    border-radius: 6px !important;
+    /*font-family: 'Amatic SC',sans-serif !important;*/
+    font-weight: 700;
+    font-size: 1.6em !important;
+}
+.bktocat_btn {
+    box-shadow: none;
+    padding: 10px 16px;
+    line-height: 1.3333333;
+    border-radius: 6px !important;
+    /*font-family: 'Amatic SC',sans-serif !important;*/
+    font-weight: 700;
+    font-size: 1.2em !important;
+}
+.bknow_btn{
+   box-shadow: none;
+    padding: 8px 10px;
+    line-height: 1.3333333;
+    border-radius: 6px !important;
+    /*font-family: 'Amatic SC',sans-serif !important;*/
+    font-weight: 700;
+    font-size: 1.2em !important;
+}
+
+.bknow_btn:hover {
+    background: #2c97de;
+    color: #fff;
+    -o-transition: color .3s ease-in,background .3s ease-in;
+    -ms-transition: color .3s ease-in,background .3s ease-in;
+    -moz-transition: color .3s ease-in,background .3s ease-in;
+    -webkit-transition: color .3s ease-in,background .3s ease-in;
+    transition: color .3s ease-in,background .3s ease-in;
+}
+
+
+
+.frm_border{
+padding: 20px;
+border: 1px solid black;
+}
+.form-control{
+display: block !important;
+width: 100% !important;
+}
+.error{
+  color: red;
+  text-transform: capitalize;
+  font-size: 15px;
+}
+.dt_style {
+width: 45%;
+float: left;
+margin: 0px 3px;
+}
+.colum-center {
+float: none;
+margin: 0 auto;
+}
+.hasDatepicker {
+height:42px !important;
+}
+.lable-style{
+display: block;
+clear: both;
+font-weight: bold;
+margin: 5px 3px !important;
+font-size:20px !important;
+}
+.back-to-categories-btn {
+margin: 25px !important;
+font-size: 17px !important; }
+.itm_grid {
+max-width: 100% !important;
+margin: 20px 0px !important;
+min-height: 470px !important;
+
+}
+.add_book_btn {
+    background: transparent !important;
+    font-size: 14px;
+    font-weight: bold;
+    font-weight: 900;
+    /*font-family: 'Amatic SC',sans-serif !important;*/
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-radius: 4px;
+}
+.add_book_btn:hover {
+background-color: #ccc !important;
+}
+.grid-h2 {
+    font-weight: 500 !important;
+    /*font-family: 'Amatic SC',sans-serif !important;*/
+    padding: 0px;
+    font-size: 1.7em !important;
+   line-height: 1.2em;
+   height:80px;
+   font-family: Josefin Sans, sans-serif;
+}
+.ui-datepicker td span, .ui-datepicker td a {
+ padding: 8px !important;
+}
+.cart_title {
+margin-bottom: 20px !important;
+font-size: 23px !important;
+font-weight:bold;
+}
+.cart_table {
+margin-top:8px;
+}
+.table {
+ font-size: 21px;
+ font-weight:bold;
+}
+.table>thead>tr>th,  .table>tbody>tr>td {
+font-size: 0.9em;
+font-family: Josefin Sans, sans-serif;
+}
+.cart_frm_page label {
+}
+.req_field{
+color: #F00;
+font-size: 20px;
+margin-right: 3px;
+font-weight: bold;
+}
+#req-8 { display:none; }
+.payment #valid_frm{
+color:#C30;
+text-align:center;
+font-size: 16px;
+font-family: Josefin Sans, sans-serif;
+}  
+.payment .form-control {
+   height: 40px;
+    border: 1px solid #ccc;
+    font-size: 1em;
+    font-family: Josefin Sans, sans-serif;
+}
+.payment .pay_btn {
+	height:40px;
+}
+.payment .pay_title{
+	font-size: 21px;
+  font-weight: 600;
+  font-family: Josefin Sans, sans-serif;
+}
+.payment label{
+  margin-bottom: 12px;
+  font-size: 18px;
+  font-family: Josefin Sans, sans-serif;
+}
+.help-block{
+	font-weight:600;
+	color:#000;
+}
+.hasDatepicker {
+background-color: #eee !important;
+border: none;
+padding: 0px 10px;
+}
+.select-wrap select {font-weight: 900;
+    font-size: 1.2em;
+    color: #5c5c5c;}
+.cf-policy{
+margin-bottom: 20px;
+    clear: both;
+    margin-top: 5px;
+    max-height: 200px;
+    display: block;
+    overflow: auto;
+    border: solid 1px #ccc;
+    padding: 0 10px;
+    opacity: .7;
+    border-radius: 3px;
+    overflow-x: hidden;
+    font-size: 1.2em;
+    color: black;
+}
+@media only screen and (max-width: 800px) {
+ .list_btn {
+     box-shadow: none;
+    padding: 10px 16px;
+    line-height: 1.3333333;
+    border-radius: 6px !important;
+     font-family: Josefin Sans, sans-serif !important;
+    font-weight: 700;
+    font-size: 2em !important;
+}
+   .grid-h2{
+     padding: 0px;
+     margin: 5px 0px !important;
+     height: auto;
+     }
+   .itm_grid {
+    margin: 15px 0px !important;
+    min-height: auto !important;
+    }
+    .cf-grid-list {
+     padding: 0px;
+    margin: 0px;   
+     }
+    .addtocart {
+         padding-top: 18%;
+     }
+     .modal-dialog {
+         width:100% !important;
+     }
+     .modal-content
+     { width: 90% !important; }
+      .modal-dialog .control-label {
+          text-align: left !important;
+          margin: 2px 0px !important;
+      }
+      .cart_title {
+     margin-bottom: 20px !important;
+     }
+     .invoice_details td {
+      white-space: normal !important;
+     }
+    .set_category_id {
+    font-size: 23px !important;
+    border-radius: 10px !important;
+     }
+}
+/*trip style*/
+.no-padding { padding:0px; !important; }
+.radius_zero{ border-radius: 0px !important;}
+.black{ background-color:#000; color:#FFF;}
+.black:hover{ background-color:#000; color:#FFF;}
+.round-check {position: relative; box-shadow: 0 0 0 2px #46b8da !important}
+.custom-height { height:40px !important; }
+.checkfront_Itineraries .table { font-size:10px; }
+.checkfront_Itineraries .trip-img {position: relative; text-align: center; color: white; font-size: 20px;}
+.checkfront_Itineraries .trip-img .img-custom {  height: 170px; width: 100%;}
+.checkfront_Itineraries .trip-img .button-left {position: absolute;  bottom: 8px; left: 16px; font-weight: 900;}
+.checkfront_Itineraries .actions , .checkfront_Itineraries .list-group{ margin: 10px 5px; color: #7d97a4;font-weight: 700;}
+.checkfront_Itineraries .float-right { float:right;}
+.checkfront_Itineraries .list-group-item {    border-bottom: 1px solid #ccc; border-right: none; border-left: none; border-top: none;margin-bottom: 0px; }
+
+.checkfront_Itineraries .popup_modal .modal-content { margin-top: 10%;border-radius: 0px;}
+.checkfront_Itineraries .popup_modal .modal-footer,.checkfront_Itineraries .popup_modal .modal-header {background-color: #f2f5f6; }
+.checkfront_Itineraries .popup_modal .form-group { border-bottom: 1px solid #f2f5f6; padding-bottom: 1rem; margin-bottom: 1rem;}
+.checkfront_Itineraries .popup_modal .form-group input[type=radio] { position: relative; box-shadow: 0 0 0 2px #2cb2ff; background-color: #fff; margin-right: .5rem; margin: 1px 10px 2px 2px; }
+
+.checkfront_trip .trip_setting .nav { /*padding: 0px;*/}
+.checkfront_trip .trip_setting .nav li a { background-color: #eee; font-weight: 700; padding: 15px; font-size: 18px; border-radius: 0px; color: #052530;}
+.checkfront_trip .trip_setting .nav .active a {border-left: 3px solid #052530; background-color: rgba(69,187,255,.05); color: #052530; font-weight: 700; padding: 15px; font-size: 18px; border-radius: 0px; }
+.checkfront_trip .trip_setting .trip_title { font-weight: 700; margin-bottom: 20px; }
+
